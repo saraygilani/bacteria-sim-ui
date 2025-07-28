@@ -1,0 +1,31 @@
+.app {
+  padding: 2rem;
+  font-family: sans-serif;
+}
+
+.bacteria-container {
+  width: 500px;
+  height: 500px;
+  background-color: #f0f0f0;
+  position: relative;
+  margin: 2rem auto;
+  border: 2px solid #ccc;
+  overflow: hidden;
+  border-radius: 12px;
+}
+
+.bacteria-dot {
+  width: 10px;
+  height: 10px;
+  background-color: green;
+  border-radius: 50%;
+  position: absolute;
+}
+
+.tumor-dot {
+  width: 11px;
+  height: 10px;
+  background-color: red;
+  position: absolute;
+  border-radius: 50%;
+}
