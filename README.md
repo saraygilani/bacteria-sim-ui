@@ -14,19 +14,22 @@ To simulate engineered bacteria navigating towards a tumor site. This simulation
 
 ## Future Vision:
 This is a proof of concept. Here are the envisioned expansions:
-•	Chemotaxis-based Movement: Simulate gradient sensing for more realistic behavior.
-•	Bacteria Growth/Death: Implement mechanisms for bacteria to “die” if they stray too far from the target or after a set time.
-•	Collision Avoidance: Add features where bacteria avoid colliding with each other while navigating.
-•	Real-World Simulation: Eventually integrate real-world variables, such as pH, temperature, and bacterial response to these conditions.
-Tools and Technology Used:
-•	Frontend: React for UI rendering and state management.
-•	Styling: HTML, CSS for fast, responsive design.
-•	Logic: Simple JavaScript algorithms to model bacteria movement.
-Contact:
-For further questions or feedback, feel free to reach out to me via GitHub issues or at my email
+- Chemotaxis-based Movement: Simulate gradient sensing for more realistic behavior.
+- Bacteria Growth/Death: Implement mechanisms for bacteria to “die” if they stray too far from the target or after a set time.
+- Collision Avoidance: Add features where bacteria avoid colliding with each other while navigating.
+- Real-World Simulation: Eventually integrate real-world variables, such as pH, temperature, and bacterial response to these conditions.
+
+## Tools and Technology Used:
+- Frontend: React for UI rendering and state management.
+- Styling: HTML, CSS for fast, responsive design.
+- Logic: Simple JavaScript algorithms to model bacteria movement.
 
 ## Demo
 https://bacteria-sim-ui.vercel.app/ 
 
+Contact:
+For further questions or feedback, feel free to reach out to me via GitHub issues or at my email
+
 ---
+
 Made by Sara Younus Gilani
