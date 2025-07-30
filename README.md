@@ -15,4 +15,4 @@ Built as a visual concept for a potential bacteria-based therapeutic simulation 
 https://bacteria-sim-ui.vercel.app/ 
 
 ---
-Made by Sara Gilani
+Made by Sara Younus Gilani
