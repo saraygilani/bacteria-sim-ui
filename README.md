@@ -2,15 +2,15 @@
 To simulate engineered bacteria navigating towards a tumor site. This simulation explores basic concepts of bacteria movement and chemotaxis (movement toward chemical gradients), a phenomenon that has potential applications in targeted cancer treatment.
 
 ## Motivation:
-•	Aligns with Dr. Suh’s Research on cancer-targeting micro-bio robots and probiotics in bio-robot systems.
-•	This simulation demonstrates a core principle for any such system: autonomous movement toward a target (tumor).
-•	The long-term vision is to develop this simple simulation into a full-fledged tool for studying bacterial navigation in medical applications.
+- Aligns with Dr. Suh’s Research on cancer-targeting micro-bio robots and probiotics in bio-robot systems.
+- This simulation demonstrates a core principle for any such system: autonomous movement toward a target (tumor).
+- The long-term vision is to develop this simple simulation into a full-fledged tool for studying bacterial navigation in medical applications.
 
 ## Simulated Features:
-•	A simple, visually-guided 20x20 grid.
-•	Red dot represents a tumor.
-•	Green dots represent bacteria, which move toward the tumor.
-•	Bacteria randomly wander or directly head toward the tumor, mimicking chemotaxis behavior.
+- A simple, visually-guided 20x20 grid.
+- Red dot represents a tumor.
+- Green dots represent bacteria, which move toward the tumor.
+- Bacteria randomly wander or directly head toward the tumor, mimicking chemotaxis behavior.
 
 ## Future Vision:
 This is a proof of concept. Here are the envisioned expansions:
